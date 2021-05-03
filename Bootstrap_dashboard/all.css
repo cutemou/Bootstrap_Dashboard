@@ -1,0 +1,19 @@
+body{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0.5rem;
+    
+}
+
+table{
+    margin-top: 10px;
+    border-top: 1px solid grey;
+}
+
+
+tr{
+    vertical-align: middle;
+}
